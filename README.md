@@ -1,7 +1,7 @@
 # Project2_BigData
 
 ## Integrantes del proyecto:
-- Miguel Gomez Olarte
+- Miguel Ángel Gomez Olarte
 - Sara Lopez Marin
 - Luis Alejandro Castrillón Pulgarín
 
